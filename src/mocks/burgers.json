@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Americana",
+    "description": "Pan de papa, carne, queso cheddar, lechuga, tomate, cebolla morada picada, salsa D",
+    "thumbnail": "./assets/images/burguer.svg"
+  },
+  {
+    "id": 2,
+    "name": "Sweet Onion",
+    "description": "Pan de papa, carne, queso cheddar, cebolla caramelizada, panceta, salsa D",
+    "thumbnail": "./assets/images/burguer.svg"
+  },{
+    "id": 3,
+    "name": "Blue Cheese",
+    "description": "Pan de papa, carne (Vacuna/Pollo frito/Veggie), queso azul, cebolla caramelizada, panceta, tomate salsa D",
+    "price": 7.99,
+    "thumbnail": "./assets/images/burguer.svg"
+  },
+  {
+    "id": 4,
+    "name": "Bacon Cheesburger",
+    "description": "Pan de papa, carne, queso cheddar, cebolla morada, panceta, mayonesa, ketchup",
+    "thumbnail": "./assets/images/burguer.svg"
+  },
+  {
+    "id": 5,
+    "name": "Molotov",
+    "description": "Pan de papa, carne, queso cheddar, guacamole, mayonesa",
+    "thumbnail": "./assets/images/burguer.svg"
+  },
+  {
+    "id": 6,
+    "name": "Cheesburger",
+    "description": "Pan de papa, carne, queso cheddar, mayonesa, ketchup",
+    "thumbnail": "./assets/images/burguer.svg"
+  },
+  {
+    "id": 7,
+    "name": "Burguer de Pollo Frito",
+    "description": "Podes pedirla en cualquiera de nuestras variedades",
+    "price": 11.99,
+    "thumbnail": "./assets/images/burguer.svg"
+  },
+  {
+    "id": 8,
+    "name": "Vegetariana",
+    "description": "Podes pedirla en cualquiera de nuestras variedades",
+    "thumbnail": "./assets/images/burguer.svg"
+  },
+  {
+    "id": 9,
+    "name": "Barbacoa Burguer",
+    "description": "Pan de papa, carne, queso cheddar, pollo frito, veggie, cebolla picada, barbacoa, panceta",
+    "thumbnail": "./assets/images/burguer.svg"
+  },
+  {
+    "id": 10,
+    "name": "La Motz",
+    "description": "Pan de papa, carne, queso cheddar, cebolla smasheada, panceta, salsa D",
+    "thumbnail": "./assets/images/burguer.svg"
+  }
+]
