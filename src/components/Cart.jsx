@@ -1,7 +1,6 @@
 import React from 'react';
 import { CloseIcon } from './Icons';
 import CartItem from './CartItem';
-import PropTypes from 'prop-types';
 import { totalCalculator } from '../utils/totalCalculator';
 
 const Cart = ({ handleCartVisible, cartItems }) => {
