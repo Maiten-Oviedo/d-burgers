@@ -5,9 +5,10 @@ import { totalCalculator } from '../utils/totalCalculator';
 
 const Cart = ({ handleCartVisible, cartItems }) => {
 
-  let total = totalCalculator(cartItems);
+  let total = totalCalculator(cartItems).toFixed(2);
+
   return (
-    <div className={`fixed pb-10 flex flex-col px-5 gap-5 inset-y-0 right-0 w-screen md:w-1/4 bg-[#ddd] shadow-lg z-50 transform ${handleCartVisible ? 'translate-x-0' : 'translate-x-full'} transition duration-300 ease-in-out`}>
+    <div className={`fixed pb-10 flex flex-col px-5 gap-5 inset-y-0 right-0 w-screen md:w-[30%] bg-[#ddd] shadow-lg z-50 transform ${handleCartVisible ? 'translate-x-0' : 'translate-x-full'} transition duration-300 ease-in-out`}>
       <div className="flex justify-between items-center px-4 py-2 border-b border-b-black">
         <h1 className="text-lg font-bold uppercase">Carrito</h1>
         <button onClick={handleCartVisible} className="text-center">
