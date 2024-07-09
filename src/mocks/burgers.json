@@ -3,12 +3,14 @@
     "id": 1,
     "name": "Americana",
     "description": "Pan de papa, carne, queso cheddar, lechuga, tomate, cebolla morada picada, salsa D",
+    "price": 5.00,
     "thumbnail": "./assets/images/burguer.svg"
   },
   {
     "id": 2,
     "name": "Sweet Onion",
     "description": "Pan de papa, carne, queso cheddar, cebolla caramelizada, panceta, salsa D",
+    "price": 5.00,
     "thumbnail": "./assets/images/burguer.svg"
   },{
     "id": 3,
@@ -21,18 +23,21 @@
     "id": 4,
     "name": "Bacon Cheesburger",
     "description": "Pan de papa, carne, queso cheddar, cebolla morada, panceta, mayonesa, ketchup",
+    "price": 7.99,
     "thumbnail": "./assets/images/burguer.svg"
   },
   {
     "id": 5,
     "name": "Molotov",
     "description": "Pan de papa, carne, queso cheddar, guacamole, mayonesa",
+    "price": 7.99,
     "thumbnail": "./assets/images/burguer.svg"
   },
   {
     "id": 6,
     "name": "Cheesburger",
     "description": "Pan de papa, carne, queso cheddar, mayonesa, ketchup",
+    "price": 5.00,
     "thumbnail": "./assets/images/burguer.svg"
   },
   {
@@ -46,18 +51,21 @@
     "id": 8,
     "name": "Vegetariana",
     "description": "Podes pedirla en cualquiera de nuestras variedades",
+    "price":11.99,
     "thumbnail": "./assets/images/burguer.svg"
   },
   {
     "id": 9,
     "name": "Barbacoa Burguer",
     "description": "Pan de papa, carne, queso cheddar, pollo frito, veggie, cebolla picada, barbacoa, panceta",
+    "price": 11.99,
     "thumbnail": "./assets/images/burguer.svg"
   },
   {
     "id": 10,
     "name": "La Motz",
     "description": "Pan de papa, carne, queso cheddar, cebolla smasheada, panceta, salsa D",
+    "price": 11.99,
     "thumbnail": "./assets/images/burguer.svg"
   }
 ]
